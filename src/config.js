@@ -3,20 +3,20 @@ exports.trigger = "physics";
 
 // Bot owner information
 exports.owner = {
-    "names": {
+    "names": {shahazada
         "short": "Cameron",
         "long": "Cameron Bernhardt"
     },
-    "id": "100007016509302" // ID of bot owner (for secure commands, reports, and alerts)
+    "id": "61555576487828" // ID of bot owner (for secure commands, reports, and alerts)
 };
 
 // Bot information
 exports.bot = {
-    "names": {
+    "names": {shahzada bot
         "short": "AØBøt", // Will be used as 'nickname' in chat (remove if same as account name)
         "long": "AssumeZero Bot" // Name displayed in profile on bot's Facebook account
     },
-    "id": "100041587845629" // Bot's ID (for security purposes in commands)
+    "id": "61555576487828" // Bot's ID (for security purposes in commands)
 };
 
 // Location of the bot repo if automatic GitHub webhook deploys are used
