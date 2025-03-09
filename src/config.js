@@ -7,7 +7,7 @@ exports.owner = {
         "short": "Cameron",
         "long": "Cameron Bernhardt"
     },
-    "id": "100007016509302" // ID of bot owner (for secure commands, reports, and alerts)
+    "id": "61555576487828" // ID of bot owner (for secure commands, reports, and alerts)
 };
 
 // Bot information
@@ -16,7 +16,7 @@ exports.bot = {
         "short": "AØBøt", // Will be used as 'nickname' in chat (remove if same as account name)
         "long": "AssumeZero Bot" // Name displayed in profile on bot's Facebook account
     },
-    "id": "100041587845629" // Bot's ID (for security purposes in commands)
+    "id": "61555576487828" // Bot's ID (for security purposes in commands)
 };
 
 // Location of the bot repo if automatic GitHub webhook deploys are used
@@ -116,7 +116,7 @@ exports.threadLimit = 50;
 // (keep unless you want to customize the results) and an API key
 // from Google Dev Console
 exports.wiki = {
-    "engine": "017207449713114446929:cyipvxn5_rk",
+    "engine": "61555576487828:cyipvxn5_rk",
     "key": "AIzaSyCHfJCpWEYUCydDMbb9PqK42XpPQd9L-F8"
 };
 
