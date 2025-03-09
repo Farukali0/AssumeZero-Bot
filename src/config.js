@@ -3,25 +3,25 @@ exports.trigger = "physics";
 
 // Bot owner information
 exports.owner = {
-    "names": {
+    "names": { shahzada
         "short": "Cameron",
         "long": "Cameron Bernhardt"
     },
-    "id": "100007016509302" // ID of bot owner (for secure commands, reports, and alerts)
+    "id": "https://"61555576487828 // ID of bot owner (for secure commands, reports, and alerts)
 };
 
 // Bot information
 exports.bot = {
     "names": {
         "short": "AØBøt", // Will be used as 'nickname' in chat (remove if same as account name)
-        "long": "AssumeZero Bot" // Name displayed in profile on bot's Facebook account
+        "long": " Bot" // Name displayed in profile on bot's Facebook account
     },
-    "id": "100041587845629" // Bot's ID (for security purposes in commands)
+    "id": "61555576487828" // Bot's ID (for security purposes in commands)
 };
 
 // Location of the bot repo if automatic GitHub webhook deploys are used
 // (see server.js for details)
-exports.repoPath = "/home/cameron/AssumeZero-Bot/";
+exports.repoPath = "/home-Bot/";
 
 // Determines whether bot grammar is "contextless"
 // i.e. whether the command must match from the start of the string or anywhere within it
@@ -34,7 +34,7 @@ exports.defaultTitle = "Unnamed chat";
 
 // Heroku settings (might need to tweak some things if using another host)
 // App name
-exports.appName = "assume-bot";
+exports.appName = "shahzada-bot";
 
 // Server URL
 exports.serverURL = `http://${exports.appName}.herokuapp.com`;
@@ -62,7 +62,7 @@ exports.banTime = 30;
 exports.wakeUpTimes = 20;
 
 // Default color (hex)
-exports.defaultColor = "#67B868";
+exports.defaultColor = ".67B868";
 
 // Number of random colors to cycle through for the "hit the lights" command
 exports.numColors = 10;
@@ -85,9 +85,9 @@ exports.votePoints = 5;
 
 // Default playlist to use if group has no added playlists
 exports.defaultPlaylist = {
-    "name": "Assume Zero Brain Power",
+    "name": "shahzada bot",
     "user": "astrocb",
-    "uri": "4joxRVv8wzT4keFzCS3gAt"
+    "uri": 61555576487828"
 };
 
 // Number of top tracks to display for Spotify searches
